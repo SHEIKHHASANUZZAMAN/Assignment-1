@@ -7,10 +7,11 @@ h1{
     color: rgb(210, 210, 210);
 }
 h2{
-    font-size: 40px;
+    font-size: 50px;
 }
 small{
-    color: #fff;
+    font-size: 24px;
+    color: rgb(210, 198, 204);
 }
 p{
     color: gray;
@@ -153,7 +154,7 @@ hr{
 .updates-form{
     padding-left: 20%;
     padding-right: 20%;
-    background-color: #e7ebb1;
+    background-color: #d0d2cc;
     height: 140px;
     width: 380px;
     margin-left: 16%;
@@ -170,7 +171,7 @@ hr{
     border: none;
     outline: none;
     border-radius: 2px;
-    background-color: #d8d591;
+    background-color: #d5d595;
     color: #2a2525ec;
     font-weight: bold;
 }
@@ -194,11 +195,11 @@ footer{
     margin-top: 60px;
 }
 footer h3{
-    font-family: cursive;
+    font-family: sans-serif;
 }
 footer p{
     font-size: 13px;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 .be-humble{
     color: rgb(206, 14, 53);
