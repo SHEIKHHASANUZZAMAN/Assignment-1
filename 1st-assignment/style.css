@@ -3,8 +3,8 @@ body{
     margin: 0%;
 }
 h1{
-    font-size: 45px;
-    color: #fff;
+    font-size: 50px;
+    color: rgb(210, 210, 210);
 }
 h2{
     font-size: 40px;
@@ -20,7 +20,7 @@ hr{
     text-align: center;
     color: gray;
 }
-.first-donate-container{
+.first-donate{
     background-image: url(images/bg1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
